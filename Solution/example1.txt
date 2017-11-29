@@ -1,0 +1,17 @@
+6
+A
+B
+C
+D
+E
+F
+9
+A B
+D C
+F B
+E A
+B D
+D F
+C E
+A C
+F E

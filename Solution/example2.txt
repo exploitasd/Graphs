@@ -1,0 +1,42 @@
+17
+Ankara
+Eskiþehir
+Kýrýkkale
+Konya
+Bilecik
+Çorum
+Yozgat
+Antalya
+Mersin
+Sakarya
+Tokat
+Kocaeli
+Sivas
+Ýstanbul
+Kayseri
+Adana
+Niðde
+23
+Konya Ankara
+Mersin Adana
+Ýstanbul Kocaeli
+Sivas Kayseri
+Kayseri Adana
+Eskiþehir Bilecik
+Tokat Yozgat
+Sivas Tokat
+Niðde Konya
+Çorum Kýrýkkale
+Konya Antalya
+Kocaeli Sakarya
+Antalya Mersin
+Adana Niðde
+Yozgat Sivas
+Bilecik Sakarya
+Mersin Konya
+Çorum Tokat
+Ankara Eskiþehir
+Kýrýkkale Yozgat
+Eskiþehir Konya
+Niðde Kayseri
+Ankara Kýrýkkale
